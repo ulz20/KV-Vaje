@@ -1,0 +1,73 @@
+    1  ls
+    2  cd documents
+    3  cd Documnets
+    4  cd Documents
+    5  whoami
+    6  sudo a
+    7  sudo adduser ulan
+    8  ^V└─$ ^V
+    9  whoami
+   10  sudo q
+   11  sudo add user ulan
+   12  sudo adduser ulan
+   13  sudo usermod -ag sudo ulan
+   14  sudo usermod -aG sudo ulan
+   15  sudo visudo
+   16  sudo q
+   17  sudo visudo
+   18  sudo service ssh start
+   19  sudo apt update
+   20  sudo apt install tmate
+   21  tmate
+   22  pwd
+   23  ls
+   24  ls -l
+   25  cd ..
+   26  cd linux-vaja
+   27  mkdir linux-vaja
+   28  ls
+   29  ls kali
+   30  cd ..
+   31  ls
+   32  cd home
+   33  ls
+   34  mkdir linux-vaja
+   35  cd kali
+   36  mkdir linux-vaja
+   37  ls
+   38  cd linux vaja
+   39  cd linux-vaja
+   40  touch vaja00.txt
+   41  opis.txt
+   42  touch opis.txt
+   43  nano opis.txt
+   44  cat opis.txt
+   45  ls
+   46  mkdir testni
+   47  ls
+   48  mv opis.txt /testni
+   49  ls -ld
+   50  ll
+   51  chmod 755 /testni
+   52  chmod 755 opis.txt
+   53  ll
+   54  mv opis.txt /testni
+   55  mv opis.txt testni
+   56  cd testni
+   57  ls
+   58  mv opis.txt moj_profil.txt
+   59  cp moj_profil.txt moj_profil_kopija.txt && mv moj_profil_kopija.txt ../../
+   60  cd ../..
+   61  ls
+   62  whoami
+   63  du -sh
+   64  du -sh ~
+   65  du -ah ~ | sort -rh | head -n 5
+   66  history
+   67  history 30
+   68  history tail 30
+   69  tail -n 30 ~/bash_history
+   70  history 30
+   71  ls
+   72  cd linux-vaja
+   73  ls
